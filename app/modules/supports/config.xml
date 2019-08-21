@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Hỗ trợ - [Nhóm Hỗ trợ]</title>
+		<item>
+			<param>supports/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>supports/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>supports/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>supports/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>supports/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Liên hệ[Danh sách]</title>
+		<item>
+			<param>supports/backend/supports/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>supports/backend/supports/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>supports/backend/supports/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>supports/backend/supports/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>supports/backend/supports/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+</module>

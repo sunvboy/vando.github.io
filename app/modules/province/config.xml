@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Địa danh - [Địa danh]</title>
+		<item>
+			<param>province/backend/province/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>province/backend/province/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>province/backend/province/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>province/backend/province/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>province/backend/province/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+	
+	</permissions>
+</module>

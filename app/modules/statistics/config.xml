@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Thống kê bán hàng - [Affiliate]</title>
+		<item>
+			
+		</item>
+		<item>
+			<param>statistics/backend/statistics/view</param>
+			<description>Xem</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Thống kê Trafix - [Affiliate]</title>
+		<item>
+			
+		</item>
+		<item>
+			<param>statistics/backend/trafix/view</param>
+			<description>Xem</description>
+		</item>
+	</permissions>
+</module>

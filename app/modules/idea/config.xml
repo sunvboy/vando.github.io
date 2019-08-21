@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Ý kiến khách hàng</title>
+		<item>
+			<param>idea/backend/idea/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>idea/backend/idea/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>idea/backend/idea/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>idea/backend/idea/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>idea/backend/idea/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Đội ngũ</title>
+		<item>
+			<param>idea/backend/team/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>idea/backend/team/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>idea/backend/team/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>idea/backend/team/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>idea/backend/team/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+</module>

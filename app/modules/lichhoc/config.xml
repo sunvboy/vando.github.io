@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Lịch học - [Ngày tháng]</title>
+		<item>
+			<param>lichhoc/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Thời gian học]</title>
+		<item>
+			<param>lichhoc/backend/lichhoc/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/lichhoc/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/lichhoc/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/lichhoc/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/lichhoc/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/lichhoc/limit</param>
+			<description>Không Giới hạn</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[CV-Tuyển dụng]</title>
+		<item>
+			<param>lichhoc/backend/chungchi/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/chungchi/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/chungchi/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/chungchi/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>lichhoc/backend/chungchi/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+</module>

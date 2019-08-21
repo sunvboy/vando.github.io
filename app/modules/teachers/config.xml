@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Giảng viên</title>
+		<item>
+			<param>teachers/backend/teachers/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>teachers/backend/teachers/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>teachers/backend/teachers/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>teachers/backend/teachers/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+
+	</permissions>
+</module>

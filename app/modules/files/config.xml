@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Files - [Upload file]</title>
+		<item>
+			
+		</item>
+		<item>
+			<param>files/backend/files/view</param>
+			<description>Xem</description>
+		</item>
+	</permissions>
+	<permissions>
+		
+	</permissions>
+</module>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Danh mục - [Audio]</title>
+		<item>
+			<param>audio/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>audio/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>audio/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>audio/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>audio/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Audio]</title>
+		<item>
+			<param>audio/backend/audio/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>audio/backend/audio/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>audio/backend/audio/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>audio/backend/audio/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>audio/backend/audio/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>audio/backend/audio/limit</param>
+			<description>Không Giới hạn</description>
+		</item>
+	</permissions>
+</module>

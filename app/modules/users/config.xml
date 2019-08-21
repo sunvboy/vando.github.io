@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Nhóm - [Quản trị]</title>
+		<item>
+			<param>users/backend/groups/dashboard</param>
+			<description>Xem Dashboard</description>
+		</item>
+		<item>
+			<param>users/backend/groups/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>users/backend/groups/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>users/backend/groups/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>users/backend/groups/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>users/backend/groups/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Edit Thành viên - [Quản trị]</title>
+		<item>
+			<param>users/backend/account/information</param>
+			<description>Thay đổi thông tin</description>
+		</item>
+		<item>
+			<param>users/backend/account/password</param>
+			<description>Thay đổi mật khẩu</description>
+		</item>
+		<item>
+			<param>users/backend/account/blocked</param>
+			<description>Chặn đăng nhập</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Thành viên - [Quản trị]</title>
+		<item>
+			<param>users/backend/users/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>users/backend/users/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>users/backend/users/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>users/backend/users/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>users/backend/users/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>users/backend/users/limit</param>
+			<description>Không giới hạn</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Ảnh - [Permission]</title>
+		<item>
+			<param>users/backend/files/all</param>
+			<description>Xem toàn bộ ảnh</description>
+		</item>
+		<item>
+			<param>users/backend/files/upload</param>
+			<description>Upload</description>
+		</item>
+		<item>
+			<param>users/backend/files/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>users/backend/files/copy</param>
+			<description>Copy</description>
+		</item>
+		<item>
+			<param>users/backend/files/move</param>
+			<description>Di chuyển</description>
+		</item>
+		<item>
+			<param>users/backend/files/rename</param>
+			<description>Đổi tên</description>
+		</item>
+		<item>
+			<param>users/backend/dirs/create</param>
+			<description>Tạo đường dẫn</description>
+		</item>
+		<item>
+			<param>users/backend/dirs/delete</param>
+			<description>Xóa đường dẫn</description>
+		</item>
+		<item>
+			<param>users/backend/dirs/rename</param>
+			<description>Đổi tên thư mục</description>
+		</item>
+	</permissions>
+</module>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Danh mục - [Video]</title>
+		<item>
+			<param>videos/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>videos/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>videos/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>videos/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>videos/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Video]</title>
+		<item>
+			<param>videos/backend/videos/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>videos/backend/videos/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>videos/backend/videos/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>videos/backend/videos/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>videos/backend/videos/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>videos/backend/videos/limit</param>
+			<description>Không Giới hạn</description>
+		</item>
+	</permissions>
+</module>

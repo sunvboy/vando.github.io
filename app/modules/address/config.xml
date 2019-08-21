@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Chi nhánh</title>
+		<item>
+			<param>address/backend/address/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>address/backend/address/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>address/backend/address/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>address/backend/address/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>address/backend/address/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<!-- <title>Chứng chỉ</title>
+		<item>
+			<param>address/backend/hedaotao/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>address/backend/hedaotao/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>address/backend/hedaotao/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>address/backend/hedaotao/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>address/backend/hedaotao/read</param>
+			<description>Đọc</description>
+		</item> -->
+	</permissions>
+</module>

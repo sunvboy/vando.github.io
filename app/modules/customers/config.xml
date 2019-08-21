@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Nhóm - [Khách hàng]</title>
+		<item>
+			<param>customers/backend/groups/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>customers/backend/groups/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>customers/backend/groups/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>customers/backend/groups/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>customers/backend/groups/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Level - [Khách hàng]</title>
+		<item>
+			<param>customers/backend/level/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>customers/backend/level/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>customers/backend/level/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>customers/backend/level/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Khách hàng]</title>
+		<item>
+			<param>customers/backend/customers/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>customers/backend/customers/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>customers/backend/customers/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>customers/backend/customers/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>customers/backend/customers/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Lịch sử Affiliate - [Khách hàng]</title>
+		<item>
+			
+		</item>
+		<item>
+			<param>customers/backend/affiliate/view</param>
+			<description>Xem</description>
+		</item>
+	</permissions>
+</module>

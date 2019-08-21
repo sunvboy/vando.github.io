@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+
+	</permissions>
+	<permissions>
+		<title>Sản phẩm tặng kèm</title>
+		<item>
+			<param>sanphamtangkem/backend/sanphamtangkem/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>sanphamtangkem/backend/sanphamtangkem/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>sanphamtangkem/backend/sanphamtangkem/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>sanphamtangkem/backend/sanphamtangkem/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+</module>

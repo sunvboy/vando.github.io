@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Đơn hàng</title>
+		<item>
+			<param>payments/backend/payments/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>payments/backend/payments/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>payments/backend/payments/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>payments/backend/payments/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>payments/backend/payments/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>payments/backend/payments/limit</param>
+			<description>Không Giới hạn</description>
+		</item>
+		<item>
+			<param>payments/backend/payments/export</param>
+			<description>Trích xuất Excel</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Chi tiết đơn hàng]</title>
+		<item>
+			<param>items/backend/items/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>items/backend/items/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>items/backend/items/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>items/backend/items/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	
+</module>

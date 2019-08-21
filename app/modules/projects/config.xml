@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Danh mục - [Dự án]</title>
+		<item>
+			<param>projects/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>projects/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>projects/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>projects/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>projects/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Dự án]</title>
+		<item>
+			<param>projects/backend/projects/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>projects/backend/projects/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>projects/backend/projects/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>projects/backend/projects/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>projects/backend/projects/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>projects/backend/projects/limit</param>
+			<description>Không Giới hạn</description>
+		</item>
+	</permissions>
+</module>

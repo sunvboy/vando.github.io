@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Vị trí - [Menu]</title>
+		<item>
+			<param>navigations/backend/positions/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>navigations/backend/positions/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>navigations/backend/positions/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>navigations/backend/positions/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>navigations/backend/positions/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Menu]</title>
+		<item>
+			<param>navigations/backend/menus/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>navigations/backend/menus/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>navigations/backend/menus/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>navigations/backend/menus/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>navigations/backend/menus/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+</module>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		
+	</permissions>
+	<permissions>
+		<title>Error[Báo lỗi]</title>
+		<item>
+			<param>error/backend/error/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>error/backend/error/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+	</permissions>
+</module>

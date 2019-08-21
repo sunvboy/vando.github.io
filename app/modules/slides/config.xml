@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Danh mục - [Slides]</title>
+		<item>
+			<param>slides/backend/groups/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>slides/backend/groups/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>slides/backend/groups/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>slides/backend/groups/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>slides/backend/groups/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		
+	</permissions>
+</module>

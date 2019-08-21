@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Khuyến mại</title>
+		<item>
+			<param>coupon/backend/coupon/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>coupon/backend/coupon/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>coupon/backend/coupon/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>coupon/backend/coupon/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+
+	</permissions>
+</module>

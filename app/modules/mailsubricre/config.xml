@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Mail Register</title>
+		<item>
+			<param>mailsubricre/backend/mailsubricre/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>mailsubricre/backend/mailsubricre/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>mailsubricre/backend/mailsubricre/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>mailsubricre/backend/mailsubricre/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>mailsubricre/backend/mailsubricre/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		
+	</permissions>
+</module>

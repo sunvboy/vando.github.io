@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/modules/customers/views/frontend/account/order_detail.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/modules/homepage/views/frontend/common/comments.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/modules/homepage/views/frontend/common/dosize.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/modules/homepage/views/frontend/layouts/homevnpay.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/modules/products/views/frontend/cart/vnpay_create_payment.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/modules/products/views/frontend/cart/vnpay_return.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/modules/products/views/frontend/products/view.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/frontend/js/jquery.countdown.js" charset="UTF-8" />
+  </component>
+</project>

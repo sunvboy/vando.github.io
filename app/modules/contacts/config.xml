@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Liên hệ - [Nhóm Liên hệ]</title>
+		<item>
+			<param>contacts/backend/receiver/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>contacts/backend/receiver/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>contacts/backend/receiver/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>contacts/backend/receiver/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>contacts/backend/receiver/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Liên hệ[Danh sách]</title>
+		<item>
+			<param>contacts/backend/home/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>contacts/backend/home/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>contacts/backend/home/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>contacts/backend/home/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>contacts/backend/home/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+</module>

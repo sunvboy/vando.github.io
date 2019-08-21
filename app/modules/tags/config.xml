@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Danh mục - [Chủ đề Tag]</title>
+		<item>
+			<param>tags/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>tags/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>tags/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>tags/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>tags/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Tag]</title>
+		<item>
+			<param>tags/backend/tags/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>tags/backend/tags/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>tags/backend/tags/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>tags/backend/tags/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>tags/backend/tags/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+</module>

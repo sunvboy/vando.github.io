@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Danh mục - [Hình ảnh]</title>
+		<item>
+			<param>gallerys/backend/catalogues/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>gallerys/backend/catalogues/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>gallerys/backend/catalogues/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>gallerys/backend/catalogues/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>gallerys/backend/catalogues/read</param>
+			<description>Đọc</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Hình ảnh]</title>
+		<item>
+			<param>gallerys/backend/gallerys/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>gallerys/backend/gallerys/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>gallerys/backend/gallerys/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>gallerys/backend/gallerys/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>gallerys/backend/gallerys/read</param>
+			<description>Đọc</description>
+		</item>
+		<item>
+			<param>gallerys/backend/gallerys/limit</param>
+			<description>Không Giới hạn</description>
+		</item>
+	</permissions>
+</module>
